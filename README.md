@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js<br>👯 I’m looking to collaborate on Web and Backend Development<br>🌱 I’m currently learning React.js
+I’m currently working on Node.js<br>I’m looking to collaborate on Web and Backend Development<br>I’m currently learning React.js
 
 
 ## 🌐 Socials:
